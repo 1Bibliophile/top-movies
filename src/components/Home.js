@@ -1,4 +1,4 @@
-export const MoviesLists = () => {
+export const Home = () => {
     return (
         <div>
             
